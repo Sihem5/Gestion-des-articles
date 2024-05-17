@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1713621667 source:c:\ti\c\tp3\main.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+
